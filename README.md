@@ -1,4 +1,4 @@
-![logo](https://github.com/studio-xd/studio-xd/blob/main/coding.gif)
+![logo](https://github.com/studio-xd/studio-xd/blob/main/coding1.gif)
 <h1 align="center">Hi 👋, I'm Hamza Tariq</h1>
 <h3 align="center">A passionate Flutter Developer and Mobile UI/UX Designer</h3>
 
